@@ -1,22 +1,21 @@
 # Hi there, I'm Zeynep Güneş! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33A8FF&center=true&width=500&lines=React+Native+%26+Frontend+Developer;Cybersecurity+%7C+Forensic+Informatics;Passionate+about+AI+and+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33A8FF&center=true&width=500&lines=React+Native+%26+Frontend+Developer;Cybersecurity+%7C+Forensic+Informatics" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 💻 About Me
-I'm a **React Native & Frontend Developer** and a graduate student specializing in **cybersecurity**. My main interests include **image segmentation, traffic sign detection**, and **forensic informatics**. Passionate about building efficient web & mobile applications and exploring AI-driven security solutions.
+I'm a **React Native & Frontend Developer** and a graduate student specializing in **cybersecurity**. My main interests include **forensic informatics**. Passionate about building efficient web & mobile applications and exploring AI-driven security solutions.
 
 ## 🚀 Technologies & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,react-native,nextjs,redux,firebase,tailwind,ts,nodejs,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,firebase,tailwind,html,css,js" />
 </p>
 
 ## 🎯 Areas of Interest
 - 🛡 Cybersecurity & Digital Forensics
-- 🚦 Image Segmentation & Traffic Sign Detection
 - 📱 Mobile & Web Development
 - 🧠 AI & Machine Learning
 
