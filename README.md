@@ -1,15 +1,15 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Zeynep Güneş — Senior Mobile & Front-End Developer"/>
+  <img src="./assets/header.svg" width="100%" alt="Zeynep Güneş — Software Engineer · Mobile & Front-End"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=2CB67D&center=true&vCenter=true&multiline=false&width=720&height=50&lines=%F0%9F%93%B1+Building+mobile+apps+people+love;%E2%9A%9B%EF%B8%8F+React+Native+%E2%80%A2+React+%E2%80%A2+Next.js;%F0%9F%9A%80+From+idea+to+App+Store+%26+Google+Play;%E2%9C%A8+Smooth+60fps+UI+%E2%80%A2+Pixel-perfect+design;%F0%9F%A7%A0+Exploring+AI+%26+Computer+Vision" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=2CB67D&center=true&vCenter=true&width=760&height=50&lines=%F0%9F%93%B1+React+Native+%E2%80%A2+Flutter+%E2%80%A2+Next.js;%F0%9F%9A%80+19%2B+products+shipped+to+App+Store+%26+Google+Play;%F0%9F%8C%8D+Apps+live+in+28+languages;%F0%9F%94%90+Native+call+blocking+with+Kotlin+%26+Swift;%F0%9F%8F%AD+Healthcare+%E2%80%A2+FinTech+%E2%80%A2+Industrial+IoT+%E2%80%A2+Social" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Level-Senior-7F5AF0?style=for-the-badge&logo=starship&logoColor=white" alt="experience"/>
-  <img src="https://img.shields.io/badge/Focus-Mobile%20%26%20Front--End-2CB67D?style=for-the-badge&logo=react&logoColor=white" alt="focus"/>
+  <img src="https://img.shields.io/badge/Mobile-React%20Native%20%7C%20Flutter-7F5AF0?style=for-the-badge&logo=react&logoColor=white" alt="mobile"/>
+  <img src="https://img.shields.io/badge/Web-React%20%7C%20Next.js-2CB67D?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="web"/>
   <img src="https://img.shields.io/badge/Platforms-iOS%20%7C%20Android%20%7C%20Web-0F0C29?style=for-the-badge&logo=apple&logoColor=white" alt="platforms"/>
 </p>
 
@@ -29,29 +29,33 @@
 
 ### 👩‍💻 About Me
 
-I'm a **Mobile & Front-End Developer** with **years of hands-on experience** turning ideas into polished, high-performance apps used on **iOS, Android and the web**.
+I'm a **Software Engineer** focused on **mobile & front-end**, building cross-platform products with **React Native, Flutter and Next.js** — from Figma screens all the way to the **App Store & Google Play**.
 
-I care about the details users *feel*: buttery animations, instant screens, intuitive flows and clean, scalable code that teams love to work with.
+I've shipped apps for **social networks, municipalities, care homes, factories, fintech, fitness, e-commerce and AI video** — each with its own real-world challenge.
 
-- 📱 Shipped production apps end-to-end — from **Figma to App Store & Google Play**
-- ⚛️ Deep expertise in **React Native**, **React** and **Next.js**
-- 🔥 Real-time apps with **Firebase**, push notifications & offline-first data
-- 🎯 Obsessed with **performance**, **accessibility** and **UX**
-- 🧠 Currently exploring **AI & computer vision** (semantic segmentation)
-- 🤝 Open to **senior roles, freelance projects & collaborations**
+- 📱 Currently **Mobile Developer @ I See U Technologies**
+- 🧩 Large-scale apps: **feature-sliced architecture**, thousands of TS files, **28 languages**
+- 🛡️ Native power when needed: **Kotlin & Swift** bridges, CallKit, WidgetKit
+- 💳 Payments & identity: **RevenueCat, Iyzico, SEPA, Sumsub KYC**
+- 👩‍🏫 **Team lead & mentor** — taught React Native to university students
+- 🎓 **MSc in Digital Forensic Engineering** · GPA 3.92 / 4.00
 
 </td>
-<td width="42%" valign="top" align="center">
+<td width="42%" valign="top">
 
 ```yaml
-name:      Zeynep Güneş
-title:     Mobile & Front-End Dev
-level:     Senior
-platforms: [iOS, Android, Web]
-core:      [React Native, React, Next.js]
-languages: [Türkçe, English]
-coffee:    ☕☕☕ / day
-motto:     "Ship fast. Ship beautiful."
+name:     Zeynep Güneş
+role:     Software Engineer
+focus:    Mobile & Front-End
+now:      I See U Technologies
+mobile:   [React Native, Flutter, Expo]
+web:      [React, Next.js]
+state:    [Redux Toolkit, RTK Query,
+           React Query, BLoC/Cubit]
+native:   [Kotlin, Swift]
+domains:  [Social, Health, IoT,
+           FinTech, GovTech, E-com]
+motto:    "Ship fast. Ship beautiful."
 ```
 
 </td>
@@ -63,17 +67,17 @@ motto:     "Ship fast. Ship beautiful."
 
 <p align="center"><b>📱 Mobile</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,androidstudio,swift,kotlin,firebase,redux&perline=6&theme=dark" alt="mobile"/>
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,kotlin,swift,androidstudio&perline=6&theme=dark" alt="mobile"/>
 </p>
 
 <p align="center"><b>🌐 Front-End</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,html,css,tailwind,sass,styledcomponents&perline=8&theme=dark" alt="frontend"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,html,css,sass,tailwind,styledcomponents&perline=8&theme=dark" alt="frontend"/>
 </p>
 
-<p align="center"><b>⚙️ Backend · Tools · AI</b></p>
+<p align="center"><b>🗄️ State · Data · Tools</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,graphql,python,pytorch,git,github,vscode,figma,jest,postman&perline=10&theme=dark" alt="tools"/>
+  <img src="https://skillicons.dev/icons?i=redux,firebase,sqlite,git,github,gitlab,postman,figma,webstorm&perline=9&theme=dark" alt="tools"/>
 </p>
 
 <details>
@@ -82,66 +86,205 @@ motto:     "Ship fast. Ship beautiful."
 
 | Category | Technologies |
 |:--|:--|
-| **Mobile** | React Native · Expo · React Navigation · Reanimated · Gesture Handler |
-| **State & Data** | Redux Toolkit · Zustand · React Query · Context API |
-| **Backend & Cloud** | Firebase (Auth, Firestore, FCM, Crashlytics) · REST · GraphQL · Node.js |
-| **Web** | React · Next.js · TypeScript · Tailwind CSS · SCSS · NextAuth.js |
-| **Testing & Quality** | Jest · React Testing Library · Detox · ESLint · Prettier |
-| **Delivery** | App Store Connect · Google Play Console · Fastlane · EAS · CI/CD |
-| **Design** | Figma · Design Systems · Animations · Accessibility |
-| **AI / CV** | Python · Deep Learning · Semantic Segmentation |
+| **Mobile** | React Native · Expo (Prebuild) · Flutter · Dart · React Navigation · GoRouter |
+| **Native** | Kotlin · Swift · Method Channels · Android Call Screening · CallKit · WidgetKit · App Groups |
+| **State Management** | Redux Toolkit · RTK Query · React Query · MobX · Context API · BLoC / Cubit |
+| **Networking** | Axios · Dio · RESTful APIs · WebSocket · Firebase Realtime |
+| **Storage** | Firebase Firestore · SQLite · SQLCipher · MMKV · SecureStore · AsyncStorage |
+| **Web** | React · Next.js · TypeScript · JavaScript (ES6+) · HTML5 · CSS3 · SCSS · Tailwind CSS |
+| **Payments & Identity** | RevenueCat · Iyzico · SEPA / IBAN · Sumsub (KYC) |
+| **Device & Maps** | Google Maps · Location · Geofencing · Camera · Snap Camera Filters · NFC · QR Scanner · Face Recognition |
+| **Quality & Delivery** | Sentry · FCM Push · Deep Links · CI/CD · App Store Connect · Google Play Console |
+| **Data Viz** | Victory Native · Chart Kit · ECharts · Chart.js · react-native-svg |
+| **Architecture** | Feature-Sliced · Feature-Repository · i18n (28 languages) |
+| **Collaboration** | Jira · Confluence · Trello · Slack · Figma · Postman · GitHub · GitLab |
 
 </details>
 
-<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-## 🚀 Featured Projects
+<!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
+## 💼 Experience
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 📱 [React Native Firebase](https://github.com/ZeynpGunes/react-native-firebase)
-Real-time, cross-platform mobile apps powered by Firebase — auth, Firestore, push notifications and analytics on **iOS & Android**.
+#### 📱 I See U Technologies
+**Mobile Developer** · Dubai · *Present*
 
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+Building **ISeeU** (social platform) with React Native and **AnrufBlocker** (spam-call protection) with Flutter for iOS & Android — from architecture to store releases.
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔐 [Next Auth](https://github.com/ZeynpGunes/next-auth)
-Secure authentication for modern web apps with **Next.js** — sessions, OAuth providers and protected routes.
+#### 🚀 Smartup Network
+**Frontend & Mobile Developer** · İstanbul
 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/NextAuth.js-7F5AF0?style=flat-square&logo=auth0&logoColor=white"/>
+Delivered mobile & web products across loyalty, e-commerce, sports, fitness, food delivery and AI video. Mentored junior developers and owned release processes.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### 🏙️ [Cityscapes Segmentation](https://github.com/ZeynpGunes/Cityscapes-Segmentasyon)
-Pixel-level understanding of city streets — a deep-learning model that segments roads, cars, pedestrians and buildings.
+#### 🏭 Prodrom ICT Solutions
+**Mobile Developer** · Elazığ
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+Built mobile apps for healthcare, municipalities and industrial IoT. **Team Lead** on CyberCortex; ran code reviews, sprint planning and mentoring.
 
 </td>
 <td width="50%" valign="top">
 
-#### ✨ What's next?
-New mobile & web projects are on the way.
-**⭐ Star & follow** to see them first!
+#### 👩‍🏫 SERKA – CODE23
+**Mobile Development Instructor** · Elazığ
 
-<img src="https://img.shields.io/badge/Coming_Soon-7F5AF0?style=flat-square"/>
+Designed and taught a two-month React Native program for university students — from component architecture to their first production-ready apps.
 
 </td>
 </tr>
 </table>
+
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+## 🌟 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 ISeeU
+All-in-one social app: posts & stories, map-based discovery of nearby people, real-time chat, gifts and in-app purchases. Feature-sliced codebase with **thousands of TypeScript files** and **28 languages**.
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/RevenueCat-F25A5A?style=flat-square"/>
+
+<a href="https://play.google.com/store/apps/details?id=com.iseeu.mobile"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ AnrufBlocker
+Flutter app that shields users from spam & scam calls with **native call blocking** (Android Call Screening + iOS CallKit via Kotlin/Swift), encrypted local DB, family tracking with geofencing and subscription plans.
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/BLoC-5E81AC?style=flat-square&logo=flutter&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ Maltepem
+Official app of **Maltepe Municipality** — residents snap & send city issues, join surveys and follow local events and announcements.
+
+<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Push-FF6F00?style=flat-square&logo=firebase&logoColor=white"/>
+
+<a href="https://play.google.com/store/apps/details?id=com.maltepebelediyesi.maltepem"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Sporday
+Multi-vendor sports marketplace on **Next.js** — product & vendor pages, cart, coupons, Iyzico payments and seller dashboards.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Iyzico-1E64FF?style=flat-square"/>
+
+<a href="https://sporday.com/"><img src="https://img.shields.io/badge/Live_Site-2CB67D?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Syntonym Blur
+AI-powered video & image anonymization — upload, face/plate detection editor, blur masking, trimming and export flows.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Video-7F5AF0?style=flat-square"/>
+
+<a href="https://blur.syntonym.com/"><img src="https://img.shields.io/badge/Live_Site-2CB67D?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 ProKart
+IoT app that predicts equipment failures from temperature, dust & vibration sensors — live charts, NFC/QR device setup and remote power control.
+
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/NFC-0F0C29?style=flat-square"/>
+<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+
+<a href="https://prokart.prodrom.com/"><img src="https://img.shields.io/badge/Website-2CB67D?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📂 More shipped products (click to expand)</b></summary>
+<br/>
+
+| Project | What it does | Stack | Link |
+|:--|:--|:--|:--|
+| 🏥 **BakımEvi** | Patient admissions, medication & treatment tracking for care facilities | React Native · SQLite | — |
+| 🏭 **ProEndX** | Real-time production tracking with QR job control & role-based dashboards | Expo · Charts | [Website](https://www.proendx.com/) |
+| 👕 **ProFabric** | Garment factory app with face-recognition login & live performance charts | React Native | [Website](http://profabric.prodrom.com/) |
+| 📈 **Algofin** | Stock tracking, sentiment, technical & fundamental analysis | React Native | [Website](https://algofin.prodrom.com/) |
+| 🔒 **CyberCortex** | CVE-based vulnerability analytics for network devices — *Team Lead* | React Native | — |
+| 🤖 **AutoML** | ML-based intrusion alerts & device management for factory networks | React Native · NFC | — |
+| 🔧 **Bakım Yönetim** | Maintenance tasks & fault alerts with QR device tracking | React Native | — |
+| 🏋️ **Kuka** | Trainer–client session booking, attendance & progress | React Native · Web | [Website](https://kukaonline.com/) |
+| ☕ **Kupa** | QR loyalty & rewards with map-based café discovery | React Native · Maps | [Google Play](https://play.google.com/store/apps/details?id=com.kupa.app) |
+| ⚽ **Sportizm** | Book pitches, find players and organise matches | React Native | — |
+| 🍔 **BizimSepet** | Food ordering with live order tracking & coupons | React Native · Firebase | — |
+| 🏷️ **Price Match** | Gamified price-guessing challenge with tokens | React Native | — |
+| 🐾 **Petsomy** | Location-based directory for vets, pet shops & pet hotels | React Native | — |
+
+</details>
+
+<!-- ═══════════════════════════ EDUCATION & CERTS ═══════════════════════════ -->
+## 🎓 Education & Certifications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 Fırat University**
+- **MSc** · Digital Forensic Engineering · GPA **3.92**
+- **BSc** · Digital Forensic Engineering
+
+</td>
+<td width="50%" valign="top">
+
+**📜 Certifications**
+- ☁️ Huawei Cloud HCCDA – Tech Essentials
+- 🛡️ CNNS – Certified Network Security Specialist (ICSI)
+- 🔍 AccessData Certified Investigator
+- 🧪 Autopsy Basics & Hands-On (BasisTech)
+- 🔐 Fortinet NSE 1 – NSE 2
+- 💡 KOSGEB Advanced Entrepreneurship
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════════════════ OPEN SOURCE ═══════════════════════════ -->
+## 🧪 On GitHub
+
+| Repo | About |
+|:--|:--|
+| 🏙️ [Cityscapes-Segmentasyon](https://github.com/ZeynpGunes/Cityscapes-Segmentasyon) | Semantic segmentation of city streets with deep learning (Python) |
+| 🔐 [next-auth](https://github.com/ZeynpGunes/next-auth) | Authentication flows with Next.js |
+| 🔥 [react-native-firebase](https://github.com/ZeynpGunes/react-native-firebase) | Firebase for React Native (fork) |
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
 ## 📊 GitHub Analytics
@@ -150,7 +293,6 @@ New mobile & web projects are on the way.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZeynpGunes&theme=tokyonight" height="165" alt="stats"/>
   <img src="https://streak-stats.demolab.com?user=ZeynpGunes&theme=radical&hide_border=true&border_radius=14&background=1A1B27&ring=7F5AF0&fire=2CB67D&currStreakLabel=2CB67D" height="165" alt="streak"/>
 </p>
-
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZeynpGunes&theme=tokyonight" width="100%" alt="profile summary"/>
@@ -161,7 +303,6 @@ New mobile & web projects are on the way.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZeynpGunes&theme=tokyonight" height="165" alt="commit language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZeynpGunes&theme=tokyonight&utcOffset=3" height="165" alt="productive time"/>
 </p>
-
 
 <!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
 ## 🐍 Contribution Snake
@@ -178,9 +319,9 @@ New mobile & web projects are on the way.
 ## 🤝 Let's Build Something Great
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zeynep-g%C3%BCne%C5%9F-b93773164/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:guns.zeynp@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/ZeynpGunes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/zeynep-g%C3%BCne%C5%9F-b93773164/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:guns.zeynp@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/ZeynpGunes"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <p align="center"><i>“Great apps aren’t built in a day — they’re built one smooth screen at a time.”</i></p>
