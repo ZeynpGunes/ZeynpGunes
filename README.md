@@ -29,16 +29,15 @@
 
 ### 👩‍💻 About Me
 
-I'm a **Software Engineer** focused on **mobile & front-end**, building cross-platform products with **React Native, Flutter and Next.js** — from Figma screens all the way to the **App Store & Google Play**.
+I build **mobile & web apps that feel effortless** — with **React Native, Flutter and Next.js**, from the first Figma frame to the **App Store & Google Play**.
 
-I've shipped apps for **social networks, municipalities, care homes, factories, fintech, fitness, e-commerce and AI video** — each with its own real-world challenge.
+Social networks, smart cities, healthcare, factories, fintech — I love turning messy real-world problems into smooth, beautiful screens.
 
-- 📱 Currently **Mobile Developer @ I See U Technologies**
-- 🧩 Large-scale apps: **feature-sliced architecture**, thousands of TS files, **28 languages**
-- 🛡️ Native power when needed: **Kotlin & Swift** bridges, CallKit, WidgetKit
-- 💳 Payments & identity: **RevenueCat, Iyzico, SEPA, Sumsub KYC**
-- 👩‍🏫 **Team lead & mentor** — taught React Native to university students
-- 🎓 **MSc in Digital Forensic Engineering** · GPA 3.92 / 4.00
+- 📱 Cross-platform by heart, **native when it matters** (Kotlin & Swift)
+- 🧩 Big codebases, clean architecture, **28 languages** in a single app
+- ⚡ Obsessed with **60fps animations** and pixel-perfect UI
+- 🔐 Security mindset — background in **digital forensics**
+- 👩‍🏫 Love mentoring & sharing what I learn
 
 </td>
 <td width="42%" valign="top">
@@ -47,14 +46,13 @@ I've shipped apps for **social networks, municipalities, care homes, factories, 
 name:     Zeynep Güneş
 role:     Software Engineer
 focus:    Mobile & Front-End
-now:      I See U Technologies
 mobile:   [React Native, Flutter, Expo]
 web:      [React, Next.js]
 state:    [Redux Toolkit, RTK Query,
            React Query, BLoC/Cubit]
 native:   [Kotlin, Swift]
-domains:  [Social, Health, IoT,
-           FinTech, GovTech, E-com]
+loves:    [Clean code, Smooth UX,
+           Dark mode, Coffee ☕]
 motto:    "Ship fast. Ship beautiful."
 ```
 
@@ -100,48 +98,6 @@ motto:    "Ship fast. Ship beautiful."
 | **Collaboration** | Jira · Confluence · Trello · Slack · Figma · Postman · GitHub · GitLab |
 
 </details>
-
-<!-- ═══════════════════════════ EXPERIENCE ═══════════════════════════ -->
-## 💼 Experience
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 📱 I See U Technologies
-**Mobile Developer** · Dubai · *Present*
-
-Building **ISeeU** (social platform) with React Native and **AnrufBlocker** (spam-call protection) with Flutter for iOS & Android — from architecture to store releases.
-
-</td>
-<td width="50%" valign="top">
-
-#### 🚀 Smartup Network
-**Frontend & Mobile Developer** · İstanbul
-
-Delivered mobile & web products across loyalty, e-commerce, sports, fitness, food delivery and AI video. Mentored junior developers and owned release processes.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🏭 Prodrom ICT Solutions
-**Mobile Developer** · Elazığ
-
-Built mobile apps for healthcare, municipalities and industrial IoT. **Team Lead** on CyberCortex; ran code reviews, sprint planning and mentoring.
-
-</td>
-<td width="50%" valign="top">
-
-#### 👩‍🏫 SERKA – CODE23
-**Mobile Development Instructor** · Elazığ
-
-Designed and taught a two-month React Native program for university students — from component architecture to their first production-ready apps.
-
-</td>
-</tr>
-</table>
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 ## 🌟 Featured Work
@@ -224,54 +180,6 @@ IoT app that predicts equipment failures from temperature, dust & vibration sens
 <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
 
 <a href="https://prokart.prodrom.com/"><img src="https://img.shields.io/badge/Website-2CB67D?style=flat-square&logo=googlechrome&logoColor=white"/></a>
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>📂 More shipped products (click to expand)</b></summary>
-<br/>
-
-| Project | What it does | Stack | Link |
-|:--|:--|:--|:--|
-| 🏥 **BakımEvi** | Patient admissions, medication & treatment tracking for care facilities | React Native · SQLite | — |
-| 🏭 **ProEndX** | Real-time production tracking with QR job control & role-based dashboards | Expo · Charts | [Website](https://www.proendx.com/) |
-| 👕 **ProFabric** | Garment factory app with face-recognition login & live performance charts | React Native | [Website](http://profabric.prodrom.com/) |
-| 📈 **Algofin** | Stock tracking, sentiment, technical & fundamental analysis | React Native | [Website](https://algofin.prodrom.com/) |
-| 🔒 **CyberCortex** | CVE-based vulnerability analytics for network devices — *Team Lead* | React Native | — |
-| 🤖 **AutoML** | ML-based intrusion alerts & device management for factory networks | React Native · NFC | — |
-| 🔧 **Bakım Yönetim** | Maintenance tasks & fault alerts with QR device tracking | React Native | — |
-| 🏋️ **Kuka** | Trainer–client session booking, attendance & progress | React Native · Web | [Website](https://kukaonline.com/) |
-| ☕ **Kupa** | QR loyalty & rewards with map-based café discovery | React Native · Maps | [Google Play](https://play.google.com/store/apps/details?id=com.kupa.app) |
-| ⚽ **Sportizm** | Book pitches, find players and organise matches | React Native | — |
-| 🍔 **BizimSepet** | Food ordering with live order tracking & coupons | React Native · Firebase | — |
-| 🏷️ **Price Match** | Gamified price-guessing challenge with tokens | React Native | — |
-| 🐾 **Petsomy** | Location-based directory for vets, pet shops & pet hotels | React Native | — |
-
-</details>
-
-<!-- ═══════════════════════════ EDUCATION & CERTS ═══════════════════════════ -->
-## 🎓 Education & Certifications
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🎓 Fırat University**
-- **MSc** · Digital Forensic Engineering · GPA **3.92**
-- **BSc** · Digital Forensic Engineering
-
-</td>
-<td width="50%" valign="top">
-
-**📜 Certifications**
-- ☁️ Huawei Cloud HCCDA – Tech Essentials
-- 🛡️ CNNS – Certified Network Security Specialist (ICSI)
-- 🔍 AccessData Certified Investigator
-- 🧪 Autopsy Basics & Hands-On (BasisTech)
-- 🔐 Fortinet NSE 1 – NSE 2
-- 💡 KOSGEB Advanced Entrepreneurship
 
 </td>
 </tr>
