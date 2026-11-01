@@ -48,9 +48,9 @@
     <text class="t float2" x="70" y="250" font-size="60" font-weight="700" fill="#7F5AF0" opacity=".35">&lt;/&gt;</text>
 
     <text class="t" x="600" y="135" text-anchor="middle" font-size="68" font-weight="800" fill="url(#txt)" letter-spacing="1">Zeynep Güneş</text>
-    <text class="t" x="600" y="185" text-anchor="middle" font-size="24" font-weight="600" fill="#2CB67D" letter-spacing="3">SENIOR MOBILE &amp; FRONT-END DEVELOPER</text>
+    <text class="t" x="600" y="185" text-anchor="middle" font-size="24" font-weight="600" fill="#2CB67D" letter-spacing="3">SOFTWARE ENGINEER · MOBILE &amp; FRONT-END</text>
     <g>
-      <text class="t" x="600" y="228" text-anchor="middle" font-size="18" fill="#C9C3E6">React Native · React · Next.js · iOS · Android<tspan class="blink" fill="#2CB67D"> ▌</tspan></text>
+      <text class="t" x="600" y="228" text-anchor="middle" font-size="18" fill="#C9C3E6">React Native · Flutter · React · Next.js · iOS · Android<tspan class="blink" fill="#2CB67D"> ▌</tspan></text>
     </g>
   </g>
 </svg>
