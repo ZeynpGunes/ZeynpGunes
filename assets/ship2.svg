@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07061A"/><stop offset=".6" stop-color="#100A2C"/><stop offset="1" stop-color="#05181A"/></linearGradient>
+  <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7F5AF0"/><stop offset="1" stop-color="#2CB67D"/></linearGradient>
+  <linearGradient id="txt" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#B9A6FF"/><stop offset=".5" stop-color="#FFFFFF"/><stop offset="1" stop-color="#7DF0C0"/>
+    <animate attributeName="x1" values="-1;0;-1" dur="6s" repeatCount="indefinite"/><animate attributeName="x2" values="0;1;0" dur="6s" repeatCount="indefinite"/></linearGradient>
+  <linearGradient id="trail" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF4D9D" stop-opacity="0"/><stop offset=".7" stop-color="#FFCB6B" stop-opacity=".8"/><stop offset="1" stop-color="#fff"/></linearGradient>
+  <radialGradient id="blobA"><stop offset="0" stop-color="#7F5AF0" stop-opacity=".45"/><stop offset="1" stop-color="#7F5AF0" stop-opacity="0"/></radialGradient>
+  <radialGradient id="blobB"><stop offset="0" stop-color="#2CB67D" stop-opacity=".35"/><stop offset="1" stop-color="#2CB67D" stop-opacity="0"/></radialGradient>
+  <clipPath id="card"><rect width="1200" height="330" rx="24"/></clipPath>
+  <clipPath id="cmd"><rect x="332" y="72" height="24" width="0">
+    <animate attributeName="width" dur="13.0s" repeatCount="indefinite" values="0;0;420;420;0;0" keyTimes="0.0000;0.0385;0.1462;0.9077;0.9085;1.0000"/></rect></clipPath>
+</defs>
+<style>.mono{font-family:'JetBrains Mono','SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+.sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Inter,Helvetica,Arial,sans-serif}</style>
+<g clip-path="url(#card)">
+<rect width="1200" height="330" fill="url(#bg)"/>
+<circle cx="200" cy="300" r="260" fill="url(#blobA)"/><circle cx="1050" cy="40" r="240" fill="url(#blobB)"/>
+
+<rect x="170" y="24" width="860" height="214" rx="14" fill="#0D0B21" fill-opacity=".92" stroke="#fff" stroke-opacity=".08"/>
+<path d="M170 38a14 14 0 0 1 14-14h832a14 14 0 0 1 14 14v16H170z" fill="#16133A"/>
+<circle cx="192" cy="39" r="5.5" fill="#FF5F57"/>
+<circle cx="210" cy="39" r="5.5" fill="#FEBC2E"/>
+<circle cx="228" cy="39" r="5.5" fill="#28C840"/>
+<text x="600.0" y="44" text-anchor="middle" class="mono" font-size="12" fill="#6E6A9A">zsh — ship</text>
+<text x="196" y="90" class="mono" font-size="15"><tspan fill="#2CB67D">zeynep</tspan><tspan fill="#6E6A9A"> ~/app </tspan><tspan fill="#C792EA">❯</tspan></text>
+<text x="332" y="90" class="mono" font-size="15" fill="#E9E7FF" clip-path="url(#cmd)" xml:space="preserve">npx ship --ios --android --web</text>
+<g opacity="0"><animate attributeName="opacity" dur="13.0s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.0000;0.1615;0.1808;0.9077;0.9385;1.0000"/>
+<g transform="translate(201 115)"><g><animate attributeName="opacity" dur="13.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0.0000;0.1615;0.2846"/><circle r="5.5" fill="#0D0B21"/><path d="M0 -5a5 5 0 0 1 5 5" fill="none" stroke="#FEBC2E" stroke-width="2" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" values="0;360" dur=".7s" repeatCount="indefinite"/></path></g></g>
+<text x="196" y="120" class="mono" font-size="15" fill="#2CB67D"><animate attributeName="opacity" dur="13.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0.0000;0.2846;0.9385"/>✔</text>
+<text x="222" y="120" class="mono" font-size="15" fill="#E9E7FF">Bundling JavaScript</text>
+<rect x="440" y="108" width="300" height="12" rx="6" fill="#fff" fill-opacity=".07"/>
+<rect x="440" y="108" height="12" rx="6" fill="url(#bar)" width="0"><animate attributeName="width" dur="13.0s" repeatCount="indefinite" values="0;0;300;300;0" keyTimes="0.0000;0.1615;0.2846;0.9385;1.0000"/></rect>
+<text x="756" y="120" class="mono" font-size="13" fill="#9C8FFF"><animate attributeName="opacity" dur="13.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0.0000;0.2846;0.9385"/>100%</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" dur="13.0s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.0000;0.3000;0.3192;0.9077;0.9385;1.0000"/>
+<g transform="translate(201 139)"><g><animate attributeName="opacity" dur="13.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0.0000;0.3000;0.3923"/><circle r="5.5" fill="#0D0B21"/><path d="M0 -5a5 5 0 0 1 5 5" fill="none" stroke="#FEBC2E" stroke-width="2" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" values="0;360" dur=".7s" repeatCount="indefinite"/></path></g></g>
+<text x="196" y="144" class="mono" font-size="15" fill="#2CB67D"><animate attributeName="opacity" dur="13.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0.0000;0.3923;0.9385"/>✔</text>
+<text x="222" y="144" class="mono" font-size="15" fill="#E9E7FF">iOS build</text>
+<text x="440" y="144" class="mono" font-size="14" fill="#6E6A9A">···</text>
+<text x="470" y="144" class="mono" font-size="14" fill="#9BE3C4"><animate attributeName="opacity" dur="13.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0.0000;0.3923;0.9385"/>ready for App Store</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" dur="13.0s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.0000;0.4077;0.4269;0.9077;0.9385;1.0000"/>
+<g transform="translate(201 163)"><g><animate attributeName="opacity" dur="13.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0.0000;0.4077;0.5000"/><circle r="5.5" fill="#0D0B21"/><path d="M0 -5a5 5 0 0 1 5 5" fill="none" stroke="#FEBC2E" stroke-width="2" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" values="0;360" dur=".7s" repeatCount="indefinite"/></path></g></g>
+<text x="196" y="168" class="mono" font-size="15" fill="#2CB67D"><animate attributeName="opacity" dur="13.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0.0000;0.5000;0.9385"/>✔</text>
+<text x="222" y="168" class="mono" font-size="15" fill="#E9E7FF">Android build</text>
+<text x="440" y="168" class="mono" font-size="14" fill="#6E6A9A">···</text>
+<text x="470" y="168" class="mono" font-size="14" fill="#9BE3C4"><animate attributeName="opacity" dur="13.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0.0000;0.5000;0.9385"/>ready for Google Play</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" dur="13.0s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.0000;0.5154;0.5346;0.9077;0.9385;1.0000"/>
+<g transform="translate(201 187)"><g><animate attributeName="opacity" dur="13.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0.0000;0.5154;0.5846"/><circle r="5.5" fill="#0D0B21"/><path d="M0 -5a5 5 0 0 1 5 5" fill="none" stroke="#FEBC2E" stroke-width="2" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" values="0;360" dur=".7s" repeatCount="indefinite"/></path></g></g>
+<text x="196" y="192" class="mono" font-size="15" fill="#2CB67D"><animate attributeName="opacity" dur="13.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0.0000;0.5846;0.9385"/>✔</text>
+<text x="222" y="192" class="mono" font-size="15" fill="#E9E7FF">Web deploy</text>
+<text x="440" y="192" class="mono" font-size="14" fill="#6E6A9A">···</text>
+<text x="470" y="192" class="mono" font-size="14" fill="#9BE3C4"><animate attributeName="opacity" dur="13.0s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0.0000;0.5846;0.9385"/>live on the edge</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" dur="13.0s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.0000;0.6077;0.6269;0.9077;0.9385;1.0000"/><text x="196" y="226" class="mono" font-size="15" fill="#FFCB6B">✨ Shipped.</text><text x="310" y="226" class="mono" font-size="15" fill="#E9E7FF">Users are smiling.</text></g>
+<rect x="332" y="76" width="9" height="17" fill="#2CB67D"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/><animate attributeName="x" dur="13.0s" repeatCount="indefinite" values="332;332;605;605;332" keyTimes="0.0000;0.0385;0.1462;0.9077;1.0000"/></rect>
+<g opacity="0"><animate attributeName="opacity" dur="13.0s" repeatCount="indefinite" values="0;0;1;1;0;0" keyTimes="0.0000;0.6308;0.6500;0.8154;0.8462;1.0000"/><g><animateMotion dur="13.0s" repeatCount="indefinite" keyPoints="0;0;1;1" keyTimes="0.0000;0.6308;0.8154;1.0000" calcMode="spline" keySplines="0 0 1 1;.5 0 .9 .6;0 0 1 1" path="M-40 254 C 320 254, 760 190, 1280 10"/><g transform="rotate(-14)"><rect x="-150" y="-4" width="140" height="8" rx="4" fill="url(#trail)"/><path d="M-14 -9 L14 -9 Q30 0 14 9 L-14 9 Q-8 0 -14 -9z" fill="#F4F2FF"/><circle cx="8" cy="0" r="3.6" fill="#7F5AF0"/><path d="M-10 -9 L-18 -17 L-2 -9z M-10 9 L-18 17 L-2 9z" fill="#FF4D9D"/><path d="M-14 -5 L-30 0 L-14 5z" fill="#FFCB6B"><animate attributeName="d" values="M-14 -5 L-30 0 L-14 5z;M-14 -5 L-38 0 L-14 5z;M-14 -5 L-30 0 L-14 5z" dur=".15s" repeatCount="indefinite"/></path></g></g></g>
+<circle cx="112" cy="251" r="2" fill="#FFCB6B" opacity="0"><animate attributeName="opacity" dur="13.0s" repeatCount="indefinite" values="0;0;1;0;0" keyTimes="0.0000;0.6489;0.6565;0.7181;1.0000"/></circle>
+<circle cx="1088" cy="71" r="2" fill="#FFCB6B" opacity="0"><animate attributeName="opacity" dur="13.0s" repeatCount="indefinite" values="0;0;1;0;0" keyTimes="0.0000;0.7649;0.7726;0.8341;1.0000"/></circle>
+<text x="600" y="292" text-anchor="middle" class="sans" font-size="26" font-weight="800" fill="url(#txt)">Thanks for stopping by — let’s ship something beautiful.</text>
+</g></svg>
